@@ -1,6 +1,6 @@
 # Project Management
 
-Project Management is a web application that allows users to create and manage projects and tasks. The user can create a new project, view project details, add tasks, and manage those tasks within each project. It also provides project and task management features, such as clearing tasks or deleting projects.
+**Project Management** is a React web application that allows users to create and manage projects and tasks. The user can create a new project, view project details, add tasks, and manage those tasks within each project. It also provides project and task management features, such as clearing tasks or deleting projects.
 
 ## Features
 
