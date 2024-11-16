@@ -41,8 +41,7 @@ function App() {
     }));
   }
 
-  function handleAddTask(projectIndex, taskName, onSetTaskName) {
-    onSetTaskName("");
+  function handleAddTask(projectIndex, taskName) {
     setProjects((prevProjects) => {
       const newProjects = [...prevProjects];
 
